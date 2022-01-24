@@ -1,0 +1,4 @@
+baseURL = 'https://loumloum.github.io/'
+languageCode = 'fr-ch'
+title = 'Le Green UX facile'
+theme = "PaperMod"
