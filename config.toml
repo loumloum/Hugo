@@ -1,6 +1,6 @@
-baseURL = 'https://loumloum.github.io/Hugo'
-languageCode = 'fr-ch'
-title = 'L'UX éthique''
+baseURL = "https://loumloum.github.io"
+languageCode = "fr-ch"
+title = "L'UX éthique"
 theme = "PaperMod"
 
 [taxonomies]
