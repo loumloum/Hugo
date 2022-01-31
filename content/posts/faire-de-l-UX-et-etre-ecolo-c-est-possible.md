@@ -1,31 +1,23 @@
 ---
-title: "Faire de l'UX et être écolo, c'est possible 🌿"
+title: "L’UX et l’éthique, le combo gagnant 💪🏻"
 date: 2022-01-24T10:19:16+01:00
 draft: false
 tags: ["bonnes pratiques"]
 
 ---
 
-Nous le savons  (presque) tou·tes, la COVID19 a entraîné une augmentation drastique de l’usage du digital et du e-commerce. Cependant, il faut avoir conscience que dématérialiser = polluer ! L’usage d’internet pollue énormément de nos jours et cela ne va pas en s'améliorant. Certain·es expert·es estiment que, d’ici 2025, la pollution numérique dépassera même celle du secteur de l’automobile. 
+En tant qu’UX designer, lorsqu’on parle de nos méthodes – et de leur prix – à nos client·es, on se retrouve parfois face à des visage figés et perplexes.
 
-Une série de gestes sont donc proposés afin de réduire notre emprunte écologique dans le numérique. Parmis ces bonnes habitudes à adopter, les plus courantes et accessibles à tous·tes sont
+En effet, cette discipline ne se résume pas qu'au fait de placer un bouton au bon endroit afin qu'il soit visible, ou même de rendre l’interface d'une application plus jolie; c'est une série de méthodologies et d'outils permettant de mieux comprendre les utilisateur-trices clé d'un produit digital afin de leur offrir la meilleure expérience possible. 
 
-- effacer ses mails
-- ne pas regarder de vidéos en 1080p ou 4K sur des sites de streaming
-- télécharger du contenu au lieu de le streamer
+En clair, étudier l’humain afin que la machine s'adapte à celui-ci plutôt que le contraire est la mission principale de l'UX.
 
-Il s'agit ici de gestes permettant de "réparer" un mal déjà créé. Mais que pouvons-nous faire afin de prévenir ces pollutions digitales? La réponse est "à peu près rien", si l'on se trouve du côté des utilisateur·trices du digital. Il est toujours possible d'adopter des solutions drastiques – en refusant, par exemple, d'intéragir avec une interface digitale. A moins que vous viviez reclu dans une cabane en forêt sans contact avec la civilisation, cela s'avère quelque peu compliqué.
+Il est donc, à mon sens, primordial de pousser cette discipline encore plus loin. De nos jours, il est difficile de se contenter d’apporter une expérience agréable à nos utilisateur·trices sans leur offrir des environnements éthiques, tant sur l’aspect sociologique qu’écologique.
 
-C'est donc du côté des acteur·trices du monde digital que les efforts principaux de "préventions" doivent être faits. Celles et ceux qui créent du contenu et des technologies doivent avoir conscience de leur impact écologique et devraient impérativement intégrer des solutions afin de  le minimiser au possible.
+En effet, je fais partie de cette génération qui souhaite faire bouger les choses à mon échelle, et l’UX me le permet. J’essaie donc d’intégrer ces disciplines dans chacun de mes projets, en prenant en compte ces différents aspects:
 
-Du côté des UX designers, par exemple, des méthodes éco-friendly existent et devraient faire partie intégrante de leur réflexions préliminaires dans chacun de leurs projets. Le **Green UX** consiste en des éco-gestes dans la conception d'un produit digital avant même que celui-ci n'existe. En tant qu’acteurs (et non juste consommateurs), il leur est possible de tester son site afin d’évaluer sa consommation.
-
-C’est une démarche nécessaire dans le domaine de l’UX car elle intervient le plus tôt possible dans la conception d’un produit. Voici quelques exemples basiques:
-
-- Plus un user passe du temps sur un site, plus cela crée de la pollution. En tant que UX designer, il faut donc fluidifier le parcours utilisateur le plus possible afin de réduire ces temps de consultation.
-- Une bonne accessibilité est également nécessaire pour une bonne performance et une réduction du travail des serveurs, très polluants.
-- Finalement, la conception *mobile first* est également primordiale, car cela consomme moins qu’une navigation sur PC.
-
-Alors, prêt·e à adopter les gestes Green UX ?
-
-###### Source: https://www.wideagency.ch/articles/lalliance-entre-ux-et-ecologie-le-green-ux 
+* l’ergonomie éthique (pas ou peu de charge mentale pour les personnes consultant des pages web, qu'ils s'agisse de personnes neuro-divergentes ou simplement pressées) 
+* l’accessibilité (le fait de rendre le contenu digital accessible à toute personnes, même en capacité physique réduites, tels les malvoyants) 
+* La représentation (apporter plus de diversité dans les visuels que nous proposons, afin d'offrir une meilleure représentation de notre population et de ses cultures, éviter les clichés grossiers et sortir des stéréotypes sur-utilisés dans la communication visuelle) 
+* Le Green UX (concevoir et réaliser des prototypes d’interfaces respectant certaines règles afin de réduire au maximum la pollution numérique) 
+Nous allons explorer ces différentes disciplines au travers de ce blog. Je vous souhaite une bonne lecture !
