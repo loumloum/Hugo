@@ -2,6 +2,8 @@ baseURL = "https://loumloum.github.io"
 languageCode = "fr-ch"
 title = "L'UX éthique"
 theme = "PaperMod"
+themesDir = "themes"
+cannonifyURLs = true
 
 [taxonomies]
 category = "categories"
