@@ -1,6 +1,6 @@
 ---
 title: "🦮 L'accessibilité, cet indispensable oublié"
-date: 2022-01-31T10:19:16+01:00
+date: 2022-01-25T10:19:16+01:00
 draft: false
 tags: ["accessibilité"]
 

@@ -10,20 +10,20 @@ category = "categories"
 tag = "tags"
 
 [[menu.main]]
-identifier = 'categories'
-name = 'categories'
+identifier = 'Catégories'
+name = 'Catégories'
 url = '/categories/'
 weight = 10
 
 [[menu.main]]
-identifier = "tags"
-name = "tags"
+identifier = "Tags"
+name = "Tags"
 url = "/tags/"
 weight = 20
 
 [[menu.main]]
-identifier = 'à propos'
-name = 'à propos'
+identifier = 'A propos'
+name = 'A propos'
 url = '/a-propos/'
 weight = 10
 
