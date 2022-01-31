@@ -1,5 +1,5 @@
 ---
-title: "L’UX et l’éthique, le combo gagnant 💪🏻"
+title: "✨ L’UX et l’éthique, le combo gagnant"
 date: 2022-01-24T10:19:16+01:00
 draft: false
 tags: ["bonnes pratiques"]
