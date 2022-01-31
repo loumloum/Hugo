@@ -21,3 +21,9 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
+[[menu.main]]
+identifier = 'à propos'
+name = 'apropos'
+url = '/apropos/'
+weight = 10
+
