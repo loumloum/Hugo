@@ -2,6 +2,8 @@ name: GitHub Pages
 
 on:
   push:
+    paths-ignore:
+      - 'images/**'
     branches:
       - master  # Set a branch to deploy
   pull_request:
