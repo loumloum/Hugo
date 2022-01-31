@@ -21,9 +21,9 @@ title: "A propos"
 * Co-Fondatrice et Directrice artistique chez Transverse
 * Co-fondatrice et tatoueuse chez Atelier Vacarme
 
-🧘🏻‍♀️ Un Ikigaï:
+🧘🏻‍♀️ **Un Ikigaï:**
 
-![ikigai_laurie](/quickstart/resources/_gen/images/ikigai_laurie.png)
+![ikigai_laurie](/resources/_gen/images/ikigai_laurie.png)
 
 
 
