@@ -23,7 +23,7 @@ title: "A propos"
 
 🧘🏻‍♀️ **Un Ikigaï:**
 
-![ikigai_laurie](/static/ikigai_laurie.png)
+![ikigai_laurie](/Hugo/static/ikigai_laurie.png)
 
 
 
