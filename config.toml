@@ -2,3 +2,25 @@ baseURL = 'https://loumloum.github.io/'
 languageCode = 'fr-ch'
 title = 'Le Green UX facile'
 theme = "PaperMod"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[[menu.main]]
+identifier = 'categories'
+name = 'categories'
+url = '/categories/'
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "example"
+name = "example.org"
+url = "https://loumloum.github.io/"
+weight = 30

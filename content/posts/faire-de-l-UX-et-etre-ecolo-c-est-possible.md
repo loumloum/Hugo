@@ -1,7 +1,9 @@
 ---
-title: "L'alliance entre UX et écologie : le Green UX !"
+title: "Faire de l'UX et être écolo, c'est possible 🌿"
 date: 2022-01-24T10:19:16+01:00
 draft: false
+tags: ["bonnes pratiques"]
+
 ---
 
 Nous le savons  (presque) tou·tes, la COVID19 a entraîné une augmentation drastique de l’usage du digital et du e-commerce. Cependant, il faut avoir conscience que dématérialiser = polluer ! L’usage d’internet pollue énormément de nos jours et cela ne va pas en s'améliorant. Certain·es expert·es estiment que, d’ici 2025, la pollution numérique dépassera même celle du secteur de l’automobile. 
@@ -25,3 +27,5 @@ C’est une démarche nécessaire dans le domaine de l’UX car elle intervient 
 - Finalement, la conception *mobile first* est également primordiale, car cela consomme moins qu’une navigation sur PC.
 
 Alors, prêt·e à adopter les gestes Green UX ?
+
+###### Source: https://www.wideagency.ch/articles/lalliance-entre-ux-et-ecologie-le-green-ux 
