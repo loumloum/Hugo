@@ -7,13 +7,7 @@ cannonifyURLs = true
 
 [taxonomies]
 category = "categories"
-tag = "tags"
-
-[[menu.main]]
-identifier = 'Catégories'
-name = 'Catégories'
-url = '/categories/'
-weight = 10
+tag = "tags
 
 [[menu.main]]
 identifier = "Tags"
