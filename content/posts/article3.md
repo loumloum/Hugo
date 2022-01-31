@@ -2,7 +2,7 @@
 title: "🏳️‍🌈 L'importance de la représentation"
 date: 2022-01-26T10:19:16+01:00
 draft: false
-tags: ["représentation"]
+tags: ["représentation", "best practices", "inclusivité"]
 
 ---
 
