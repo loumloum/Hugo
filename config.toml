@@ -6,8 +6,7 @@ themesDir = "themes"
 cannonifyURLs = true
 
 [taxonomies]
-category = "categories"
-tag = "tags
+tag = "tags"
 
 [[menu.main]]
 identifier = "Tags"
