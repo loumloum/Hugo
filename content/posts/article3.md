@@ -22,3 +22,5 @@ Eviter les termes stigmatisants ou d’appropriation culturelle / mentale. Garde
 Eviter les clichés de la petite famille blanche parfaite. Eviter également les « faux inclusifs » représentant, tour à tour, une voilée, un asiatique, une noire et un blanc. Avoir une certaines sensibilité dans sa représentation au niveau des visuels est un exercice délicat  et demande une déconstruction de ses propres clichés et privilèges pour bien l’exploiter. 
 
 Une fois ces quelques conseils appliqués, vos contenus et rendus pour vos clients auront nettement gagné en inclusivité. Et, même sans le savoir, vous aiderez une grande partie de la population à s’identifier et à se projeter dans ce que vous proposez !
+
+###### Source: https://www.orange-business.com/fr/blogs/design-ethique-et-inclusif-donner-sens-conception-centree-utilisateur

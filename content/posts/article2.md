@@ -2,7 +2,7 @@
 title: "🦮 L'accessibilité, cet indispensable oublié"
 date: 2022-01-25T10:19:16+01:00
 draft: false
-tags: ["accessibilité"]
+tags: ["accessibilité", ""]
 
 ---
 
@@ -17,6 +17,8 @@ On parle également de gestion de couleurs et de contrastes des textes sur  une 
 
 Toutes ces problématiques sont importantes à prendre en compte même lorsque notre contenu n’est pas spécifiquement destiné à une très large audience, comme le sont les site web des cantons, par exemple (qui, eux, sont contraints par la loi de rendre leurs plateformes accessibles). 
 
-De nombreux plug-ins et autres outils existent afin d’évaluer le niveau d’accessibilité d’un site web, tels que WAVE ou Accessibility Checker. 
+De nombreux plug-ins et autres outils existent afin d’évaluer le niveau d’accessibilité d’un site web, tels que [WAVE](https://wave.webaim.org/)) ou [Accessibility Checker](https://www.accessibilitychecker.org/)). 
 
-Au delà de l’aspect éthique que peut représenter le fait de rendre accessible son contenu à tous·tes, nous pouvons presque considérer cela comme une manière de concevoir le monde qui nous entoure. L’accessibilité
+Au delà de l’aspect éthique que peut représenter le fait de rendre accessible son contenu à tous·tes, nous pouvons presque considérer cela comme une manière de concevoir le monde qui nous entoure. En somme, l’accessibilité de nos interface démontre l'empathie que nous éprouvons pour autrui.
+
+###### Source: https://lagrandeourse.design/blog/les-bons-conseils-pour-developper-un-produit-inclusif-et-accessible/
