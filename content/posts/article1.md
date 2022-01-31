@@ -16,8 +16,9 @@ Il est donc, à mon sens, primordial de pousser cette discipline encore plus loi
 
 En effet, je fais partie de cette génération qui souhaite faire bouger les choses à mon échelle, et l’UX me le permet. J’essaie donc d’intégrer ces disciplines dans chacun de mes projets, en prenant en compte ces différents aspects:
 
-* l’ergonomie éthique (pas ou peu de charge mentale pour les personnes consultant des pages web, qu'ils s'agisse de personnes neuro-divergentes ou simplement pressées) 
-* l’accessibilité (le fait de rendre le contenu digital accessible à toute personnes, même en capacité physique réduites, tels les malvoyants) 
+* l’ergonomie éthique (pas ou peu de charge mentale pour les personnes consultant des pages web, qu'ils s'agisse de personnes neuro-divergentes ou simplement pressées)
+* l’accessibilité (le fait de rendre le contenu digital accessible à toute personnes, même en capacité physique réduites, tels les malvoyants)
 * La représentation (apporter plus de diversité dans les visuels que nous proposons, afin d'offrir une meilleure représentation de notre population et de ses cultures, éviter les clichés grossiers et sortir des stéréotypes sur-utilisés dans la communication visuelle) 
-* Le Green UX (concevoir et réaliser des prototypes d’interfaces respectant certaines règles afin de réduire au maximum la pollution numérique) 
+* Le Green UX (concevoir et réaliser des prototypes d’interfaces respectant certaines règles afin de réduire au maximum la pollution numérique)
+
 Nous allons explorer ces différentes disciplines au travers de ce blog. Je vous souhaite une bonne lecture !
