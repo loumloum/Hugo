@@ -1,4 +1,4 @@
-baseURL = 'https://loumloum.github.io/'
+baseURL = 'https://loumloum.github.io/Hugo'
 languageCode = 'fr-ch'
 title = 'L'UX éthique''
 theme = "PaperMod"
@@ -19,8 +19,3 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
-[[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://loumloum.github.io/"
-weight = 30
