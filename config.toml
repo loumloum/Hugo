@@ -1,4 +1,4 @@
-baseURL = "https://loumloum.github.io"
+baseURL = "https://loumloum.github.io/Hugo"
 languageCode = "fr-ch"
 title = "L'UX éthique"
 theme = "PaperMod"
