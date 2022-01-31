@@ -23,6 +23,8 @@ title: "A propos"
 
 🧘🏻‍♀️ Un Ikigaï:
 
+![ikigai_laurie](/Users/laurie/quickstart/resources/_gen/images/ikigai_laurie.png)
+
 
 
 
