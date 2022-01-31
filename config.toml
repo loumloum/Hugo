@@ -23,7 +23,7 @@ weight = 20
 
 [[menu.main]]
 identifier = 'à propos'
-name = 'apropos'
-url = '/apropos/'
+name = 'à propos'
+url = '/a-propos/'
 weight = 10
 
